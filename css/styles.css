@@ -115,7 +115,18 @@ p {
   padding-bottom: 3%;
 }
 
+
+
 .press-logo {
+  width: 20%;
+  padding: 20px 20px 50px;
+}
+
+.adjustSize {
+  width : 20%;
+  height : 15rem;
+  padding: 20px 20px 50px;
+}
   width: 20%;
   padding: 20px 20px 50px;
 }
